@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556219424 source:c:\users\user\documents\myc++\test38\chkprime\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
